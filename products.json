@@ -2,7 +2,7 @@
 	"products" : [
 		{
 			"name" : "Stimpy Fart",
-			"price" : "1€",
+			"price" : "1.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -11,7 +11,7 @@
 		},
 		{
 			"name" : "Bad Boys",
-			"price" : "10.00€",
+			"price" : "10.00",
 			"options" : [
 				{ "Size" : "21x21cm" },
 			  { "OneOfAKind" : true }
@@ -22,7 +22,7 @@
 		},
 		{
 			"name" : "Pickle Rick",
-			"price" : "10.00€",
+			"price" : "10 .00",
 			"options" : [
 				{ "Size" : "21x21cm" }
 			],
@@ -31,7 +31,7 @@
 		},
 		{
 			"name" : "Gravity Falls",
-			"price" : "10.00€",
+			"price" : "10 .00",
 			"options" : [
 				{ "Size" : "21x21cm" }
 			],
@@ -40,7 +40,7 @@
 		},
 		{
 			"name" : "Hugo Simpson",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -49,7 +49,7 @@
 		},
 		{
 			"name" : "Over The Garden Wall",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -58,7 +58,7 @@
 		},
 		{
 			"name" : "Cuphead",
-			"price" : "10.00€",
+			"price" : "10 .00",
 			"options" : [
 				{ "Size" : "21x21cm" }
 			],
@@ -67,7 +67,7 @@
 		},
 		{
 			"name" : "Billy & Mandy",
-			"price" : "10.00€",
+			"price" : "10 .00",
 			"options" : [
 				{ "Size" : "21x21cm" }
 			],
@@ -76,7 +76,7 @@
 		},
 		{
 			"name" : "Ouija",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -85,7 +85,7 @@
 		},
 		{
 			"name" : "Pandemonium",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -94,7 +94,7 @@
 		},
 		{
 			"name" : "Steven",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -103,7 +103,7 @@
 		},
 		{
 			"name" : "Cowabunga!",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -112,7 +112,7 @@
 		},
 		{
 			"name" : "Doom Patrol I",
-			"price" : "12.00€",
+			"price" : "12 .00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
@@ -121,7 +121,7 @@
 		},
 		{
 			"name" : "Doom Patrol II",
-			"price" : "12.00€",
+			"price" : "12 .00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
@@ -130,7 +130,7 @@
 		},
 		{
 			"name" : "Cut and Run",
-			"price" : "10.00€",
+			"price" : "10 .00",
 			"options" : [
 				{ "Size" : "21x21cm" }
 			],
@@ -139,7 +139,7 @@
 		},
 		{
 			"name" : "Psycho",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -148,7 +148,7 @@
 		},
 		{
 			"name" : "Batman",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -157,7 +157,7 @@
 		},
 		{
 			"name" : "Jium McKenzie",
-			"price" : "10.00€",
+			"price" : "10 .00",
 			"options" : [
 				{ "Size" : "21x21cm" }
 			],
@@ -166,7 +166,7 @@
 		},
 		{
 			"name" : "Suburbia",
-			"price" : "12.00€",
+			"price" : "12 .00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
@@ -175,7 +175,7 @@
 		},
 		{
 			"name" : "Lugosi",
-			"price" : "12.00€",
+			"price" : "12 .00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
@@ -184,7 +184,7 @@
 		},
 		{
 			"name" : "Kylo Ren",
-			"price" : "12.00€",
+			"price" : "12 .00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
@@ -193,7 +193,7 @@
 		},
 		{
 			"name" : "Craig Gleason",
-			"price" : "10.00€",
+			"price" : "10 .00",
 			"options" : [
 				{ "Size" : "21x21cm" }
 			],
@@ -202,7 +202,7 @@
 		},
 		{
 			"name" : "Yellow Guy",
-			"price" : "10.00€",
+			"price" : "10 .00",
 			"options" : [
 				{ "Size" : "21x21cm" }
 			],
@@ -211,7 +211,7 @@
 		},
 		{
 			"name" : "Two-Face",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -220,7 +220,7 @@
 		},
 		{
 			"name" : "Eleven",
-			"price" : "12.00€",
+			"price" : "12 .00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
@@ -229,7 +229,7 @@
 		},
 		{
 			"name" : "Eraserhead",
-			"price" : "12.00€",
+			"price" : "12 .00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
@@ -238,7 +238,7 @@
 		},
 		{
 			"name" : "Rick & Homer",
-			"price" : "12.00€",
+			"price" : "12 .00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
@@ -247,7 +247,7 @@
 		},
 		{
 			"name" : "Tony Papesh",
-			"price" : "10.00€",
+			"price" : "10 .00",
 			"options" : [
 				{ "Size" : "21x21cm" }
 			],
@@ -256,7 +256,7 @@
 		},
 		{
 			"name" : "Fringe",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
@@ -265,7 +265,7 @@
 		},
 		{
 			"name" : "Super Mario",
-			"price" : "12.00€",
+			"price" : "12 .00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
@@ -274,7 +274,7 @@
 		},
 		{
 			"name" : "MC",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
@@ -283,7 +283,7 @@
 		},
 		{
 			"name" : "Javier Botet",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -292,7 +292,7 @@
 		},
 		{
 			"name" : "Real Monsters",
-			"price" : "12.00€",
+			"price" : "12 .00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
@@ -301,7 +301,7 @@
 		},
 		{
 			"name" : "Piece of Shit",
-			"price" : "10.00€",
+			"price" : "10 .00",
 			"options" : [
 				{ "Size" : "21x21cm" }
 			],
@@ -310,7 +310,7 @@
 		},
 		{
 			"name" : "Made in Britain",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -319,7 +319,7 @@
 		},
 		{
 			"name" : "Redgirl",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -328,7 +328,7 @@
 		},
 		{
 			"name" : "Redrum",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -337,7 +337,7 @@
 		},
 		{
 			"name" : "I've Seen Things",
-			"price" : "10.00€",
+			"price" : "10 .00",
 			"options" : [
 				{ "Size" : "21x21cm" }
 			],
@@ -346,7 +346,7 @@
 		},
 		{
 			"name" : "Ren & Stimpy House",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -355,7 +355,7 @@
 		},
 		{
 			"name" : "Watermelon",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -364,7 +364,7 @@
 		},
 		{
 			"name" : "Self Portrait",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -373,7 +373,7 @@
 		},
 		{
 			"name" : "Roboti",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -382,7 +382,7 @@
 		},
 		{
 			"name" : "Scooby",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -391,7 +391,7 @@
 		},
 		{
 			"name" : "Walking Dead",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -400,7 +400,7 @@
 		},
 		{
 			"name" : "Travis & Alex",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -409,7 +409,7 @@
 		},
 		{
 			"name" : "Beavis and Butthead",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -418,7 +418,7 @@
 		},
 		{
 			"name" : "Bojack Horseman",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
@@ -427,7 +427,7 @@
 		},
 		{
 			"name" : "Stranger Things",
-			"price" : "8.00€",
+			"price" : "8 .00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
