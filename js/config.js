@@ -17,11 +17,16 @@ $(function() {
 	    cartStyle: "div",
 
 	    // how simpleCart should checkout, see the checkout reference for more info
-	    checkout: {
+	   /* checkout: {
 	        type: "PayPal" ,
 	        email: "paubusiness@gmail.com",
 					sandbox: true
-	    },
+	    }, */
+
+			checkout: {
+ 	        type: "PayPal" ,
+ 	        email: "uuveegc@gmail.com"
+	 	  },
 
 	    // set the currency, see the currency reference for more info
 	    currency: "EUR",

@@ -2,18 +2,18 @@
 	"products" : [
 		{
 			"name" : "Stimpy Fart",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/stimpyfart.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Bad Boys",
-			"price" : "10.00",
+			"price" : "10.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" },
+				{ "Size" : "21x21cm" },
 			  { "OneOfAKind" : true }
 			],
 			"image" : "images/badboys.jpg",
@@ -22,414 +22,414 @@
 		},
 		{
 			"name" : "Pickle Rick",
-			"price" : "10.00",
+			"price" : "10.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "21x21cm" }
 			],
 			"image" : "images/picklerick.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Gravity Falls",
-			"price" : "10.00",
+			"price" : "10.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "21x21cm" }
 			],
 			"image" : "images/gravityfalls.jpg",
-			"description" : ""
+			"description" : "It's called wobbles because it wobbles!"
 		},
 		{
 			"name" : "Hugo Simpson",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/hugo.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Over The Garden Wall",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/overthegardenwall.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Cuphead",
-			"price" : "10.00",
+			"price" : "10.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "21x21cm" }
 			],
 			"image" : "images/cuphead.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Billy & Mandy",
-			"price" : "10.00",
+			"price" : "10.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "21x21cm" }
 			],
 			"image" : "images/mandy.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Ouija",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/ouija.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Pandemonium",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
-			"image" : "images/Pandemonium.jpg",
+			"image" : "images/pandemonium.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Steven",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/steven.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Cowabunga!",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/cowabunga.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Doom Patrol I",
-			"price" : "10.00",
+			"price" : "12.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/doompatrol1.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Doom Patrol II",
-			"price" : "10.00",
+			"price" : "12.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/doompatrol2.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Cut and Run",
-			"price" : "10.00",
+			"price" : "10.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "21x21cm" }
 			],
 			"image" : "images/slaves.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Psycho",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/psycho.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Batman",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/batman.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Jium McKenzie",
-			"price" : "10.00",
+			"price" : "10.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "21x21cm" }
 			],
 			"image" : "images/jimmckenzie.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Suburbia",
-			"price" : "10.00",
+			"price" : "12.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/suburbia.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Lugosi",
-			"price" : "10.00",
+			"price" : "12.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/lugosi.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Kylo Ren",
-			"price" : "10.00",
+			"price" : "12.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/kyloren.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Craig Gleason",
-			"price" : "10.00",
+			"price" : "10.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "21x21cm" }
 			],
 			"image" : "images/craig.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Yellow Guy",
-			"price" : "10.00",
+			"price" : "10.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "21x21cm" }
 			],
 			"image" : "images/donthugme.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Two-Face",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/doscaras.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Eleven",
-			"price" : "10.00",
+			"price" : "12.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/eleven.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Eraserhead",
-			"price" : "10.00",
+			"price" : "12.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/eraserhead.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Rick & Homer",
-			"price" : "10.00",
+			"price" : "12.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/homerrick.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Tony Papesh",
-			"price" : "10.00",
+			"price" : "10.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "21x21cm" }
 			],
 			"image" : "images/tonypapesh.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Fringe",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/fringe.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Super Mario",
-			"price" : "10.00",
+			"price" : "12.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/mario.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "MC",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/mc.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Javier Botet",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/monster.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Real Monsters",
-			"price" : "10.00",
+			"price" : "12.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/monstersaa.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Piece of Shit",
-			"price" : "10.00",
+			"price" : "10.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "21x21cm" }
 			],
 			"image" : "images/mortyrick.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Made in Britain",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/nazi.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Redgirl",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/redgirli.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Redrum",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/redrum.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "I've Seen Things",
-			"price" : "10.00",
+			"price" : "10.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "21x21cm" }
 			],
 			"image" : "images/renandstimpy.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Ren & Stimpy House",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/renstyhouse.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Watermelon",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/retrato1.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Self Portrait",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/retrato2.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Roboti",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/roboti.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Scooby",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/scooby.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Walking Dead",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/walkingdead.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Travis & Alex",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/travisalex.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Beavis and Butthead",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/beavisbutthead.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Bojack Horseman",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/bojack.jpg",
 			"description" : ""
 		},
 		{
 			"name" : "Stranger Things",
-			"price" : "10.00",
+			"price" : "8.00€",
 			"options" : [
-				{ "Size" : "15x15,20x20,30x30" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/strangerthings.jpg",
 			"description" : ""
