@@ -2,7 +2,7 @@
 	"products" : [
 		{
 			"name" : "Stimpy Fart",
-			"price" : "1.00",
+			"price" : "10.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],

@@ -80,7 +80,7 @@ $(function() {
 	simpleStore.init({
 
 		// brand can be text or image URL
-		brand : "Uve Barker Store",
+		brand : "https://i.imgur.com/NfmDu9t.jpg",
 
 		// numder of products per row (accepts 1, 2 or 3)
 		numColumns : 3,
@@ -89,7 +89,6 @@ $(function() {
 
 		// name of JSON file, located in directory root
 		JSONFile : "products.json"
-
 	});
 
 
