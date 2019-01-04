@@ -25,7 +25,7 @@ $(function() {
 
 			checkout: {
  	        type: "PayPal" ,
- 	        email: "uuveegc@gmail.com"
+ 	        email: "uvebarker@gmail.com"
 	 	  },
 
 	    // set the currency, see the currency reference for more info
