@@ -80,7 +80,7 @@ $(function() {
 	simpleStore.init({
 
 		// brand can be text or image URL
-		brand : "https://i.imgur.com/NfmDu9t.jpg",
+		brand : "Uve Barker Store",
 
 		// numder of products per row (accepts 1, 2 or 3)
 		numColumns : 3,

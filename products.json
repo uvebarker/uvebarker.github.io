@@ -1,8 +1,134 @@
 {
 	"products" : [
 		{
-			"name" : "Stimpy Fart",
+			"name" : "Blue",
 			"price" : "10.00",
+			"options" : [
+				{ "Size" : "21x21" }
+			],
+			"image" : "images/bluegirl.jpg",
+			"description" : ""
+		},
+		{
+			"name" : "Spongebob",
+			"price" : "10.00",
+			"options" : [
+				{ "Size" : "21x21" }
+			],
+			"image" : "images/esponja.jpg",
+			"description" : ""
+		},
+		{
+			"name" : "Flapjack",
+			"price" : "10.00",
+			"options" : [
+				{ "Size" : "21x21" }
+			],
+			"image" : "images/flapjack.jpg",
+			"description" : ""
+		},
+		{
+			"name" : "Mermaid",
+			"price" : "10.00",
+			"options" : [
+				{ "Size" : "21x21" }
+			],
+			"image" : "images/sirena.jpg",
+			"description" : ""
+		},
+		{
+			"name" : "Marte",
+			"price" : "12.00",
+			"options" : [
+				{ "Size" : "A4" }
+			],
+			"image" : "images/marte.jpg",
+			"description" : ""
+		},
+		{
+			"name" : "Baby",
+			"price" : "8.00",
+			"options" : [
+				{ "Size" : "A5" }
+			],
+			"image" : "images/baby.jpg",
+			"description" : ""
+		},
+		{
+			"name" : "Cactus",
+			"price" : "8.00",
+			"options" : [
+				{ "Size" : "A5" }
+			],
+			"image" : "images/cactus.jpg",
+			"description" : ""
+		},
+		{
+			"name" : "Simpsons",
+			"price" : "8.00",
+			"options" : [
+				{ "Size" : "A5" }
+			],
+			"image" : "images/jokersimjisoni.jpg",
+			"description" : ""
+		},
+		{
+			"name" : "Joker",
+			"price" : "8.00",
+			"options" : [
+				{ "Size" : "A5" }
+			],
+			"image" : "images/jokersimpsoni.jpg",
+			"description" : ""
+		},
+		{
+			"name" : "Bad Dog",
+			"price" : "8.00",
+			"options" : [
+				{ "Size" : "A5" }
+			],
+			"image" : "images/retro.jpg",
+			"description" : ""
+		},
+		{
+			"name" : "Alice Angel",
+			"price" : "8.00",
+			"options" : [
+				{ "Size" : "A5" }
+			],
+			"image" : "images/rukbetro.jpg",
+			"description" : ""
+		},
+		{
+			"name" : "Kirby",
+			"price" : "8.00",
+			"options" : [
+				{ "Size" : "A5" }
+			],
+			"image" : "images/smash.jpg",
+			"description" : ""
+		},
+		{
+			"name" : "Link",
+			"price" : "8.00",
+			"options" : [
+				{ "Size" : "A5" }
+			],
+			"image" : "images/smhrash.jpg",
+			"description" : ""
+		},
+		{
+			"name" : "Powerpuff House",
+			"price" : "8.00",
+			"options" : [
+				{ "Size" : "A5" }
+			],
+			"image" : "images/tortuga.jpg",
+			"description" : ""
+		},
+		{
+			"name" : "Stimpy Fart",
+			"price" : "8.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
