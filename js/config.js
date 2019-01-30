@@ -45,7 +45,13 @@ $(function() {
 	    ],
 
 	    // custom function to add shipping cost
-	    shippingCustom: null,
+	    shippingCustom: function(){
+                        if(country = "ES"){
+                            return 10;
+                        } else {
+                            return 15;
+                        }
+                    },,
 
 	    // flat rate shipping option
 	    shippingFlatRate: 0,

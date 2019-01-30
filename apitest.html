@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+      <title>Sample Page</title>
+      <script>
+         var settings = {
+           "async": true,
+           "crossDomain": true,
+           "url": "http://api.ipstack.com/check?access_key=f2279bfcac789299f1756a5cd77f7606",
+           "method": "GET"
+         }
+
+         $.ajax(settings).done(function (response) {
+           console.log(response);
+
+           var content = response.country_code;
+			$("#countryCode").append(content);
+         });
+      </script>
+   </head>
+   <body>
+      <h1>Sample Page</h1>
+        <div id="countryCode">Continent Code: </div>
+   </body>
+</html>
+
+<!-- https://idratherbewriting.com/learnapidoc/docapis_access_json_values.html -->
