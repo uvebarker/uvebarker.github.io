@@ -358,12 +358,6 @@
 			"description" : "Signed original drawing"
 		},
 		{
-			"name" : "Tony Papesh",
-			"price" : "10.00",
-			"image" : "images/tonypapesh.jpg",
-			"description" : "Signed original drawing"
-		},
-		{
 			"name" : "Fringe",
 			"price" : "30.00",
 			"options" : [
@@ -505,7 +499,7 @@
 				{ "Size" : "A6" }
 			],
 			"image" : "images/walkingdead.jpg",
-			"description" : "Signed original drawing", "2 Sketchhands"
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Beavis and Butthead",
@@ -514,7 +508,7 @@
 				{ "Size" : "A6" }
 			],
 			"image" : "images/beavisbutthead.jpg",
-			"description" : "Signed original drawing", "2 Sketchhands"
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Bojack Horseman",
@@ -523,7 +517,7 @@
 				{ "Size" : "A6" }
 			],
 			"image" : "images/bojack.jpg",
-			"description" : "Signed original drawing", "2 Sketchhands"
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Stranger Things",
@@ -532,7 +526,7 @@
 				{ "Size" : "A6" }
 			],
 			"image" : "images/strangerthings.jpg",
-			"description" : "Signed original drawing", "2 Sketchhands"
+			"description" : "Signed original drawing"
 		}
 	]
 }
