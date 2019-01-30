@@ -2,563 +2,537 @@
 	"products" : [
 		{
 			"name" : "Blue",
-			"price" : "10.00",
+			"price" : "40.00",
 			"options" : [
-				{ "Size" : "21x21" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/bluegirl.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Spongebob",
-			"price" : "10.00",
-			"options" : [
-				{ "Size" : "21x21" }
-			],
-			"image" : "images/esponja.jpg",
-			"description" : ""
-		},
-		{
-			"name" : "Flapjack",
-			"price" : "10.00",
-			"options" : [
-				{ "Size" : "21x21" }
-			],
-			"image" : "images/flapjack.jpg",
-			"description" : ""
-		},
-		{
-			"name" : "Mermaid",
-			"price" : "10.00",
-			"options" : [
-				{ "Size" : "21x21" }
-			],
-			"image" : "images/sirena.jpg",
-			"description" : ""
-		},
-		{
-			"name" : "Marte",
-			"price" : "12.00",
+			"price" : "40.00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
+			"image" : "images/esponja.jpg",
+			"description" : "Signed original drawing"
+		},
+		{
+			"name" : "Flapjack",
+			"price" : "60.00",
+			"options" : [
+				{ "Size" : "A4" }
+			],
+			"image" : "images/flapjack.jpg",
+			"description" : "Signed original drawing"
+		},
+		{
+			"name" : "Mermaid",
+			"price" : "50.00",
+			"options" : [
+				{ "Size" : "A4" }
+			],
+			"image" : "images/sirena.jpg",
+			"description" : "Signed original drawing"
+		},
+		{
+			"name" : "Marte",
+			"price" : "SOLD OUT",
 			"image" : "images/marte.jpg",
-			"description" : ""
+			"description" : "Signed original drawing",
+			"soldOut" : true
+
 		},
 		{
 			"name" : "Baby",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/baby.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Cactus",
-			"price" : "8.00",
+			"price" : "40.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/cactus.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Simpsons",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/jokersimjisoni.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Joker",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/jokersimpsoni.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Bad Dog",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/retro.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Alice Angel",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/rukbetro.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Kirby",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/smash.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Link",
-			"price" : "8.00",
+			"price" : "40.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/smhrash.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Powerpuff House",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/tortuga.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Stimpy Fart",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
-				{ "Size" : "A5" }
+				{ "Size" : "16x17cm" }
 			],
 			"image" : "images/stimpyfart.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Bad Boys",
-			"price" : "10.00",
+			"price" : "60.00",
 			"options" : [
-				{ "Size" : "21x21cm" },
+				{ "Size" : "A4" },
 			  { "OneOfAKind" : true }
 			],
 			"image" : "images/badboys.jpg",
-			"description" : "",
-			"soldOut" : true
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Pickle Rick",
-			"price" : "10.00",
+			"price" : "60.00",
 			"options" : [
-				{ "Size" : "21x21cm" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/picklerick.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Gravity Falls",
-			"price" : "10.00",
+			"price" : "60.00",
 			"options" : [
-				{ "Size" : "21x21cm" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/gravityfalls.jpg",
 			"description" : "It's called wobbles because it wobbles!"
 		},
 		{
 			"name" : "Hugo Simpson",
-			"price" : "8.00",
+			"price" : "40.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/hugo.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Over The Garden Wall",
-			"price" : "8.00",
+			"price" : "50.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/overthegardenwall.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Cuphead",
-			"price" : "10.00",
+			"price" : "80.00",
 			"options" : [
-				{ "Size" : "21x21cm" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/cuphead.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Billy & Mandy",
-			"price" : "10.00",
+			"price" : "60.00",
 			"options" : [
-				{ "Size" : "21x21cm" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/mandy.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Ouija",
-			"price" : "8.00",
+			"price" : "40.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/ouija.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Pandemonium",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/pandemonium.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Steven",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/steven.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Cowabunga!",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/cowabunga.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Doom Patrol I",
-			"price" : "12.00",
+			"price" : "40.00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
 			"image" : "images/doompatrol1.jpg",
-			"description" : ""
-		},
-		{
-			"name" : "Doom Patrol II",
-			"price" : "12.00",
-			"options" : [
-				{ "Size" : "A4" }
-			],
-			"image" : "images/doompatrol2.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Cut and Run",
-			"price" : "10.00",
+			"price" : "60.00",
 			"options" : [
-				{ "Size" : "21x21cm" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/slaves.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Psycho",
-			"price" : "8.00",
+			"price" : "50.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/psycho.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Batman",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/batman.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
-			"name" : "Jium McKenzie",
+			"name" : "Jim McKenzie",
 			"price" : "10.00",
 			"options" : [
 				{ "Size" : "21x21cm" }
 			],
 			"image" : "images/jimmckenzie.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Suburbia",
-			"price" : "12.00",
+			"price" : "80.00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
 			"image" : "images/suburbia.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Lugosi",
-			"price" : "12.00",
-			"options" : [
-				{ "Size" : "A4" }
-			],
+			"price" : "SOLD OUT",
 			"image" : "images/lugosi.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Kylo Ren",
-			"price" : "12.00",
+			"price" : "40.00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
 			"image" : "images/kyloren.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Craig Gleason",
-			"price" : "10.00",
+			"price" : "60.00",
 			"options" : [
-				{ "Size" : "21x21cm" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/craig.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Yellow Guy",
-			"price" : "10.00",
+			"price" : "60.00",
 			"options" : [
-				{ "Size" : "21x21cm" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/donthugme.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Two-Face",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/doscaras.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Eleven",
-			"price" : "12.00",
+			"price" : "60.00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
 			"image" : "images/eleven.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Eraserhead",
-			"price" : "12.00",
+			"price" : "50.00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
 			"image" : "images/eraserhead.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Rick & Homer",
-			"price" : "12.00",
+			"price" : "50.00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
 			"image" : "images/homerrick.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Tony Papesh",
 			"price" : "10.00",
-			"options" : [
-				{ "Size" : "21x21cm" }
-			],
 			"image" : "images/tonypapesh.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Fringe",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
-				{ "Size" : "A4" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/fringe.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Super Mario",
-			"price" : "12.00",
+			"price" : "40.00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
 			"image" : "images/mario.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "MC",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
-				{ "Size" : "A4" }
+				{ "Size" : "A5" }
 			],
 			"image" : "images/mc.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Javier Botet",
-			"price" : "8.00",
+			"price" : "40.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/monster.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Real Monsters",
-			"price" : "12.00",
+			"price" : "40.00",
 			"options" : [
 				{ "Size" : "A4" }
 			],
 			"image" : "images/monstersaa.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Piece of Shit",
-			"price" : "10.00",
+			"price" : "40.00",
 			"options" : [
-				{ "Size" : "21x21cm" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/mortyrick.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Made in Britain",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/nazi.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Redgirl",
-			"price" : "8.00",
+			"price" : "20.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/redgirli.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Redrum",
-			"price" : "8.00",
+			"price" : "40.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/redrum.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "I've Seen Things",
-			"price" : "10.00",
+			"price" : "80.00",
 			"options" : [
-				{ "Size" : "21x21cm" }
+				{ "Size" : "A4" }
 			],
 			"image" : "images/renandstimpy.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Ren & Stimpy House",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/renstyhouse.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Watermelon",
-			"price" : "8.00",
+			"price" : "20.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/retrato1.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Self Portrait",
-			"price" : "8.00",
+			"price" : "40.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/retrato2.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Roboti",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/roboti.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Scooby",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
 				{ "Size" : "A5" }
 			],
 			"image" : "images/scooby.jpg",
-			"description" : ""
+			"description" : "Signed original drawing"
 		},
 		{
 			"name" : "Walking Dead",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
-				{ "Size" : "A5" }
+				{ "Size" : "A6" }
 			],
 			"image" : "images/walkingdead.jpg",
-			"description" : ""
-		},
-		{
-			"name" : "Travis & Alex",
-			"price" : "8.00",
-			"options" : [
-				{ "Size" : "A5" }
-			],
-			"image" : "images/travisalex.jpg",
-			"description" : ""
+			"description" : "Signed original drawing", "2 Sketchhands"
 		},
 		{
 			"name" : "Beavis and Butthead",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
-				{ "Size" : "A5" }
+				{ "Size" : "A6" }
 			],
 			"image" : "images/beavisbutthead.jpg",
-			"description" : ""
+			"description" : "Signed original drawing", "2 Sketchhands"
 		},
 		{
 			"name" : "Bojack Horseman",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
-				{ "Size" : "A5" }
+				{ "Size" : "A6" }
 			],
 			"image" : "images/bojack.jpg",
-			"description" : ""
+			"description" : "Signed original drawing", "2 Sketchhands"
 		},
 		{
 			"name" : "Stranger Things",
-			"price" : "8.00",
+			"price" : "30.00",
 			"options" : [
-				{ "Size" : "A5" }
+				{ "Size" : "A6" }
 			],
 			"image" : "images/strangerthings.jpg",
-			"description" : ""
+			"description" : "Signed original drawing", "2 Sketchhands"
 		}
 	]
 }
