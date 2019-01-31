@@ -46,12 +46,14 @@ $(function() {
 
 	    // custom function to add shipping cost
 	    shippingCustom: function(){
-                        if(country = "ES"){
-                            return 10;
-                        } else {
-                            return 15;
-                        }
-                    },,
+		    if( countryCode == "ES" && continentCode == "EU") {
+		    	return 6;
+				} else if(continentCode == "EU"){
+		    	return 8;
+		    } else {
+					return 10;
+				}
+	    },
 
 	    // flat rate shipping option
 	    shippingFlatRate: 0,

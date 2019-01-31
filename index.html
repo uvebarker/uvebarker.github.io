@@ -38,6 +38,8 @@
     <!-- Primary Page Layout
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
+
+
     <div class="">
       <img class="img-header" src="images/bannerfinal.png">
     </div>
@@ -151,28 +153,10 @@
 <!-- Scripts
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="js/api.js"></script>
 <script src="js/simpleCart.min.js"></script>
 <script src="js/simpleStore.min.js"></script>
-
-<!-- jQuery script fot getting country 
-–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script>
-        var settings = {
-           "async": true,
-           "crossDomain": true,
-           "url": "http://api.ipstack.com/check?access_key=f2279bfcac789299f1756a5cd77f7606",
-           "method": "GET"
-        }
-
-        $.ajax(settings).done(function (response) {
-            console.log(response);
-
-            var country = response.country_code;
-            $("#countryCode").append(country);
-        });
-      </script>
-
 <script src="js/config.js"></script>
+
 
 </html>
