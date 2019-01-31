@@ -1,7 +1,7 @@
 var settings = {
            "async": true,
            "crossDomain": true,
-           "url": "http://api.ipstack.com/check?access_key=f2279bfcac789299f1756a5cd77f7606",
+           "url": "https://api.ipdata.co/?api-key=2abd99f078c1b237f9b9b906f9617f46d0acd560884d71fd1a06bd20",
            "method": "GET"
         }
 
